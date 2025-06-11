@@ -1,0 +1,8 @@
+Azure virtual machine
+Azure blob storage
+Azure SQL database
+virtual network
+Load balancer
+Azure Kubernetes Service
+Azure Functions
+Azure AI Services

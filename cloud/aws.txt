@@ -1,0 +1,13 @@
+EC2
+EBS
+ELB
+Autosacaling
+S3
+EFS
+VPC
+IAM
+RDS
+Cloudwatch
+Route53
+Cloudfront
+Lambda

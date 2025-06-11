@@ -1,0 +1,10 @@
+Google Compute Engine
+Google Cloud Storage
+Google Cloud Functions
+Google Cloud SQL
+Google Deployment Manager
+Google App Engine
+Google Cloud Build
+Google Cloud Monitoring
+Google Cloud Identity & Access Management (IAM)
+Google Cloud VPC
